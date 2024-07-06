@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://kashyap-p.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://zenitsu.in/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
